@@ -3,7 +3,7 @@ path: C:\ocr_git\OCR_analyze\datasets
 train: images/train
 val: images/val
 
-nc: 37
+nc: 38
 names:
   0: '0'
   1: '1'
