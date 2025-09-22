@@ -80,8 +80,8 @@ def convert_labelme_to_yolo(json_folder, save_folder):
 
 
 convert_labelme_to_yolo(
-    r"C:\ocr_git\OCR_analyze\json",
-    r"C:\ocr_git\OCR_analyze\datasets\labels\train"
+    r"C:\ocr_git\OCR_analyze\j",
+    r"C:\ocr_git\OCR_analyze\datasets\labels\val"
 )
 
 
